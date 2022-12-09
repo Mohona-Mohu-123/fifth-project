@@ -1,0 +1,37 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.topbar{
+	background-color: pink;
+	overflow: hidden;
+}
+.container{
+	width: 100%;
+	margin: auto;
+}
+.contact-info{
+	float: left;
+	width: 70%;
+}
+.contact-info a{
+	color: crimson;
+	text-decoration: none;
+    font-size: 18px;
+}
+.contact-info i{
+	padding: 8px;
+}
+.social-info{
+	float: right;
+	width: 20%;
+}
+.social-info a{
+	color: crimson;
+	text-decoration: none;
+	font-size: 18px;
+	
+}
+.social-info i{
+	padding: 8px;
+}
